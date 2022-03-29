@@ -59,8 +59,8 @@
 #footer{
     background-color: white;
     font-family: Helvetica;
-    font-size: 10px;
     clear: both;
-    display: inline;
     text-align: center;
+    display: inline;
+    font-size: 10px;
 }
