@@ -42,7 +42,7 @@
     font-family: Helvetica;
     text-align: left;
     height: 200px;
-    width: 250px;
+    width: 300px;
     float: left;
     margin-top: 50px;
 }
@@ -56,11 +56,10 @@
 }
 
 
-#footer{
+.footer{
     background-color: white;
     font-family: Helvetica;
     clear: both;
     text-align: center;
-    display: inline;
     font-size: 10px;
 }
