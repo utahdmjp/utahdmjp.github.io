@@ -12,6 +12,8 @@
     clear:both;
     display:inline;
     text-align: center;
+    margin: 20px 30px;
+    padding: 10px 20px;
 }
 
 .left-navigation {
