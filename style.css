@@ -2,13 +2,14 @@
     background-color: white;
     font-family: Helvetica;
     text-align: center;
+    margin: 20px 30px;
+    padding: 10px 20px;
 }
 
 .top-navigation {
     background-color: white;
     font-family: Helvetica;
     clear: both;
-    display: inline;
     text-align: center;
 }
 
