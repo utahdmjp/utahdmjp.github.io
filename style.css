@@ -34,17 +34,17 @@
     float: left;
     margin-left: 50px;
     margin-top: 50px;
-    margin-bottom: 50px;">
+    margin-bottom: 50px;>
 }
 
 #content1{
     background-color: white;
     font-family: Helvetica;
     text-align: left;
-    height: 100px;
-    width: 200px;
+    height: 200px;
+    width: 250px;
     float: left;
-    margin-top: 50px"
+    margin-top: 50px;
 }
 
 .bottom-navigation{
