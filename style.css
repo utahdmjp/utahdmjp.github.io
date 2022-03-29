@@ -6,11 +6,11 @@ header {
 }
 
 .top-navigation {
-    background-color:#DEDBDB;
+    background-color: white;
     font-family:Helvetica;
     clear:both;
     text-align:center;
-    display:inline-block
+    display:inline;
     width: 5cm;
     }
 }
@@ -55,5 +55,5 @@ header {
     font-size: 10px;
     clear: both;
     text-align: center;
-    display: inline-block;
+    display: inline;
 }
