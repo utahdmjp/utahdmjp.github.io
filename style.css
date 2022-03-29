@@ -10,10 +10,8 @@ header {
     font-family:Helvetica;
     clear:both;
     text-align:center;
-    
-    a {
-        display:inline-block
-        width: 5cm;
+    display:inline-block
+    width: 5cm;
     }
 }
 
