@@ -9,10 +9,9 @@ header {
     background-color: white;
     font-family:Helvetica;
     clear:both;
+    display:inline
     text-align:center;
-    display:inline;
     width: 5cm;
-    }
 }
 
 .left-navigation {
@@ -26,6 +25,7 @@ header {
     margin-right: 20px;
     margin-top: 50px;
     margin-bottom: 50px;
+    padding-left: 20px;
 }
 
 #image {
