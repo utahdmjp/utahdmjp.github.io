@@ -1,4 +1,4 @@
-header {
+.header {
     background-color: white;
     font-family: Helvetica;
     text-align: center;
@@ -6,7 +6,7 @@ header {
     padding: 10px 20px;
 }
 
-#top-navigation {
+.top-navigation {
     background-color: white;
     font-family:Helvetica;
     clear:both;
@@ -48,7 +48,7 @@ header {
     margin-top: 50px"
 }
 
-#bottom-navigation{
+.bottom-navigation{
     background-color: white;
     font-family: Helvetica;
     clear: both;
