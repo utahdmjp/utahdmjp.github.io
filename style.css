@@ -17,8 +17,8 @@
 .left-navigation {
     background-color: #DEDBDB;
     font-family: Helvetica;
-    height: 200px;
-    width: 100px;
+    height: 20px;
+    width: 10px;
     float: left;
     text-align: left;
     margin-left: 300px;
@@ -28,7 +28,7 @@
     padding-left: 20px;
 }
 
-.image {
+#image {
     background-color: white;
     font-family: Helvetica;
     height: 200px;
@@ -39,7 +39,7 @@
     margin-bottom: 50px;">
 }
 
-.content1{
+#content1{
     background-color: white;
     font-family: Helvetica;
     text-align: left;
@@ -58,7 +58,8 @@
     padding-top: 500px;
 }
 
-.footer{
+
+#footer{
     background-color: white;
     font-family: Helvetica;
     font-size: 10px;
