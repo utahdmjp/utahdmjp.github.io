@@ -5,12 +5,12 @@ header {
     margin-bottom: 0;
 }
 
-.top-navigation {
+#top-navigation {
     background-color: white;
     font-family:Helvetica;
     clear:both;
-    display:inline
-    text-align:center;
+    display:inline;
+    text-align: center;
 }
 
 .left-navigation {
@@ -53,6 +53,7 @@ header {
     clear: both;
     text-align: center;
     margin-top: 500px;
+    padding-top: 500px;
 }
 
 #footer{
