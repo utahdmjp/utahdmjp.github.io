@@ -29,14 +29,17 @@ header {
 }
 
 #image {
-    background-color: white;
-    font-family: Helvetica;
     height: 200px;
     width: 260px;
     float: left;
     margin-left: 50px;
     margin-top: 50px;
     margin-bottom: 50px;">
+}
+
+#image li {
+    background-color: white;
+    font-family: Helvetica;
 }
 
 #content1{
