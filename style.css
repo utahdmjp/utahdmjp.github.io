@@ -12,8 +12,6 @@
     clear:both;
     display:inline;
     text-align: center;
-    margin: 20px 30px;
-    padding: 10px 20px;
 }
 
 .left-navigation {
@@ -62,8 +60,6 @@
     font-family: Helvetica;
     font-size: 10px;
     clear: both;
-    text-align: center;
     display: inline;
-    margin-top: 500px;
-    padding-top: 500px;
+    text-align: center;
 }
